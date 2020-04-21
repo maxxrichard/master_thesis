@@ -1,0 +1,101 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {UKenglish}{}
+\babel@toc {ngerman}{}
+\babel@toc {UKenglish}{}
+\babel@toc {ngerman}{}
+\babel@toc {UKenglish}{}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Tips and tricks}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}How to use the \textsf {ubonn-thesis} style}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Options that can be passed to \texttt {ubonn-thesis}}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}Do}{9}{section.2.3}
+\contentsline {section}{\numberline {2.4}Do not}{11}{section.2.4}
+\contentsline {section}{\numberline {2.5}Units}{13}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}siunitx package}{13}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}SIunits/hepunits packages}{15}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Definitions in particle physics}{16}{section.2.6}
+\contentsline {section}{\numberline {2.7}Hints}{17}{section.2.7}
+\contentsline {section}{\numberline {2.8}Common English mistakes}{18}{section.2.8}
+\contentsline {section}{\numberline {2.9}Line numbering}{19}{section.2.9}
+\contentsline {section}{\numberline {2.10}Updating \textsf {ubonn-thesis}}{20}{section.2.10}
+\contentsline {chapter}{\numberline {3}Submitting your thesis}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}PhD thesis}{21}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Submission}{21}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Printing the final version}{21}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Master/Diplom/Bachelor thesis}{22}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Submission}{22}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}MSc/Diplom theses for the department library}{23}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}BSc theses}{23}{subsection.3.2.3}
+\contentsline {chapter}{\numberline {4}Useful packages}{25}{chapter.4}
+\contentsline {section}{\numberline {4.1}Layout and language}{25}{section.4.1}
+\contentsline {section}{\numberline {4.2}Appearance}{26}{section.4.2}
+\contentsline {section}{\numberline {4.3}Other packages}{26}{section.4.3}
+\contentsline {section}{\numberline {4.4}ToDo Notes}{29}{section.4.4}
+\contentsline {chapter}{\numberline {5}Figures}{31}{chapter.5}
+\contentsline {section}{\numberline {5.1}Simple figures}{31}{section.5.1}
+\contentsline {section}{\numberline {5.2}Fancier figures}{32}{section.5.2}
+\contentsline {section}{\numberline {5.3}Figure formats}{33}{section.5.3}
+\contentsline {section}{\numberline {5.4}Ti\textit {k}Z\xspace and PGF}{34}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Accelerator lattices}{35}{subsection.5.4.1}
+\contentsline {section}{\numberline {5.5}Placement}{35}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}\textsf {standalone} package and class}{38}{subsection.5.5.1}
+\contentsline {section}{\numberline {5.6}Feynman graphs}{38}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}PyFeyn}{38}{subsection.5.6.1}
+\contentsline {subsection}{\numberline {5.6.2}FeynMF and FeynMP}{39}{subsection.5.6.2}
+\contentsline {subsection}{\numberline {5.6.3}Feynman graphs with Ti\textit {k}Z\xspace }{41}{subsection.5.6.3}
+\contentsline {chapter}{\numberline {6}Tables}{43}{chapter.6}
+\contentsline {section}{\numberline {6.1}Use of \Macro {phantom}}{43}{section.6.1}
+\contentsline {section}{\numberline {6.2}Using \textsf {siunitx} and the \texttt {S} column option}{44}{section.6.2}
+\contentsline {section}{\numberline {6.3}Using \textsf {dcolumn}}{47}{section.6.3}
+\contentsline {chapter}{\numberline {7}References}{51}{chapter.7}
+\contentsline {section}{\numberline {7.1}Formatting by hand}{51}{section.7.1}
+\contentsline {section}{\numberline {7.2}Using \textsc {Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ and \textsf {biblatex}}{52}{section.7.2}
+\contentsline {section}{\numberline {7.3}\textsc {Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}{} entries}{53}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Entry types}{54}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Entries from Inspire and CDS}{54}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.3}More on names}{55}{subsection.7.3.3}
+\contentsline {section}{\numberline {7.4}Formatting references}{55}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}\textsf {biblatex} styles}{55}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Traditional \textsc {Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}{} styles}{57}{subsection.7.4.2}
+\contentsline {section}{\numberline {7.5}Errata}{57}{section.7.5}
+\contentsline {section}{\numberline {7.6}Sources for references}{58}{section.7.6}
+\contentsline {section}{\numberline {7.7}Common wishes}{59}{section.7.7}
+\contentsline {section}{\numberline {7.8}Using \textsf {mcite}}{60}{section.7.8}
+\contentsline {chapter}{\numberline {8}Layout and language}{61}{chapter.8}
+\contentsline {section}{\numberline {8.1}Page layout}{61}{section.8.1}
+\contentsline {section}{\numberline {8.2}Footnotes}{61}{section.8.2}
+\contentsline {section}{\numberline {8.3}Thesis in German}{63}{section.8.3}
+\babel@toc {ngerman}{}
+\babel@toc {UKenglish}{}
+\contentsline {section}{\numberline {8.4}Fonts}{64}{section.8.4}
+\contentsline {section}{\numberline {8.5}Other languages}{64}{section.8.5}
+\contentsline {section}{\numberline {8.6}Coloured links}{64}{section.8.6}
+\contentsline {section}{\numberline {8.7}Chapter headings}{65}{section.8.7}
+\contentsline {chapter}{\numberline {A}Changes and plans}{67}{appendix.A}
+\contentsline {chapter}{\numberline {B}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}{} setup and packages}{71}{appendix.B}
+\contentsline {section}{\numberline {B.1}Integrated environments}{71}{section.B.1}
+\contentsline {subsection}{\numberline {B.1.1}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}studio\xspace }{72}{subsection.B.1.1}
+\contentsline {subsection}{\numberline {B.1.2}Visual Studio Code}{72}{subsection.B.1.2}
+\contentsline {subsection}{\numberline {B.1.3}Kile}{72}{subsection.B.1.3}
+\contentsline {section}{\numberline {B.2}MacOS}{73}{section.B.2}
+\contentsline {section}{\numberline {B.3}(Ku|Xu|U)buntu}{73}{section.B.3}
+\contentsline {section}{\numberline {B.4}Windows}{75}{section.B.4}
+\contentsline {subsection}{\numberline {B.4.1}MiKT\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}}{76}{subsection.B.4.1}
+\contentsline {subsection}{\numberline {B.4.2}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ Live\xspace }{77}{subsection.B.4.2}
+\contentsline {chapter}{\numberline {C}Print shops}{79}{appendix.C}
+\contentsline {chapter}{\numberline {D}Making a glossary or list of acronyms}{81}{appendix.D}
+\contentsline {section}{\numberline {D.1}ZEUS detector description}{82}{section.D.1}
+\contentsline {chapter}{\numberline {E}Plots with \textsf {Ti\textit {k}Z\xspace }}{85}{appendix.E}
+\contentsline {chapter}{\numberline {F}Long tables}{87}{appendix.F}
+\contentsline {chapter}{\numberline {G}A famous equation is $E = mc^{2}$}{91}{appendix.G}
+\contentsline {section}{\numberline {G.1}A slightly less famous equation $F = m a$}{91}{section.G.1}
+\contentsline {section}{\numberline {G.2}The cross-section is given by $\sigma = N / \mathcal {L}$}{91}{section.G.2}
+\contentsline {chapter}{\numberline {H}Old or obsolete information and instructions}{93}{appendix.H}
+\contentsline {section}{\numberline {H.1}More on \textsf {feynmf}}{93}{section.H.1}
+\contentsline {section}{\numberline {H.2}Windows}{94}{section.H.2}
+\contentsline {subsection}{\numberline {H.2.1}Windows XP}{94}{subsection.H.2.1}
+\contentsline {subsection}{\numberline {H.2.2}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}nic Center\xspace }{95}{subsection.H.2.2}
+\contentsline {chapter}{\nonumberline Bibliography}{97}{chapter*.28}
+\contentsline {chapter}{\nonumberline List of Figures}{99}{chapter*.29}
+\contentsline {chapter}{\nonumberline List of Tables}{101}{chapter*.30}
+\contentsline {chapter}{\nonumberline Acknowledgements}{109}{chapter*.32}

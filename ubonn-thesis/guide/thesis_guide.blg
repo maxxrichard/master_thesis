@@ -1,0 +1,27 @@
+[0] Config.pm:302> INFO - This is Biber 2.9
+[0] Config.pm:305> INFO - Logfile is 'thesis_guide.blg'
+[26] biber:313> INFO - === Mon Nov 11, 2019, 13:28:36
+[48] Biber.pm:371> INFO - Reading 'thesis_guide.bcf'
+[108] Biber.pm:857> INFO - Found 25 citekeys in bib section 0
+[120] Biber.pm:3981> INFO - Processing section 0
+[133] Biber.pm:4154> INFO - Looking for bibtex format file 'guide_refs.bib' for section 0
+[134] bibtex.pm:1468> INFO - LaTeX decoding ...
+[139] bibtex.pm:1294> INFO - Found BibTeX data source 'guide_refs.bib'
+[158] Biber.pm:4154> INFO - Looking for bibtex format file './refs/zeus_2009.bib' for section 0
+[159] bibtex.pm:1468> INFO - LaTeX decoding ...
+[194] bibtex.pm:1294> INFO - Found BibTeX data source './refs/zeus_2009.bib'
+[230] Biber.pm:4154> INFO - Looking for bibtex format file './refs/zeus_2010.bib' for section 0
+[232] bibtex.pm:1468> INFO - LaTeX decoding ...
+[271] bibtex.pm:1294> INFO - Found BibTeX data source './refs/zeus_2010.bib'
+[299] Biber.pm:4154> INFO - Looking for bibtex format file '../refs/standard_refs-biber.bib' for section 0
+[301] bibtex.pm:1468> INFO - LaTeX decoding ...
+[319] bibtex.pm:1294> INFO - Found BibTeX data source '../refs/standard_refs-biber.bib'
+[345] Biber.pm:4154> INFO - Looking for bibtex format file './refs/example_refs-utf8.bib' for section 0
+[346] bibtex.pm:1468> INFO - LaTeX decoding ...
+[368] bibtex.pm:1294> INFO - Found BibTeX data source './refs/example_refs-utf8.bib'
+[522] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[522] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[523] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[523] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-UK'
+[554] bbl.pm:617> INFO - Writing 'thesis_guide.bbl' with encoding 'UTF-8'
+[569] bbl.pm:720> INFO - Output to thesis_guide.bbl

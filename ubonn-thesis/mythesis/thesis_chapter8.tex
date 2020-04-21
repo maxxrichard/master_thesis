@@ -1,0 +1,43 @@
+% !TEX root = mythesis.tex
+
+
+
+%==============================================================================
+\chapter{Conclusion}
+\label{sec:conclusion}
+%==============================================================================
+In this thesis, the estimation of multijet background is presented in the all-hadronic decay channel of $T/Y\rightarrow Wb$ analysis. It is performed by studying the data of $pp$ collisions at $\sqrt{s}=\SI{13}{\tera\electronvolt}$ which is taken by using the ATLAS detector in 2015-18, corresponding to an integrated luminosity of $\SI{139}{\femto\barn^{-1}}$. 
+
+Vector-like quarks are coloured spin $\frac{1}{2}$ hypothetical particles, which are predicted by various BSM theories to solve the phenomena which could not be explained by the SM. One of the phenomena is the Higgs mass hierarchy problem, which can be solved by introducing VLQs. They can be produced either singly or in pair, but the single VLQ production is a dominant production mode at high VLQ masses, which brings us to study the single production of two types of VLQs, $T$ and $Y$ quark. Since VLQs are heavy particles, $T/Y$ quark decays into $W$ boson and $b$-quark, where $W$ boson can decay either leptonically or hadronically. In this thesis, the hadronic decay channel has been studied. 
+
+Since an all-hadronic channel is being probed, the contribution from multijet is a dominant background because of the QCD processes. At the preselection (in Fig.\ \ref{fig:analysisstrategy:eventselection:preselection}), a significant amount of mismodelling in the multijet MC was observed, which cannot be fixed by scaling the multijet MC. Therefore, a data-driven method has to be performed to get a better estimate of multijet background. For this, one of the data-driven methods called the ABCD method has been used.
+
+The ABCD method should be performed in the signal region, but since we are blinded to the data in the signal region, the method is performed in the validation region to validate the method. It was observed from the multijet estimate from the ABCD method in the validation region that there was a need for applying correction to the multijet estimate because one of the main assumptions of the ABCD method was not fulfiled by choice of the uncorrelated variables. So, a correction factor has been introduced, which was calculated from the multijet MC. It was calculated by using two different methods called normalisation and shape method. After applying the correction factor, the estimated multijet from the ABCD method shows a better agreement with the data.
+
+The second part of this thesis is to improve the multijet estimate by improvising the ABCD method because the correction factor was calculated from the multijet MC, which are mismodelled. In order to fix this, a likelihood fit is performed to fit multijet MC to the data while keeping the other backgrounds constant. Then this scaled multijet MC has been used to calculate the correction factor by using both the methods. So, in total, four different ways of calculation of the correction factor have been shown in this thesis. An improvement has been seen in the estimated multijet after applying the correction factor, which is calculated from the scaled multijet MC by using shape method. So, this multijet estimate is regarded as a final estimate.
+
+Furthermore, statistical uncertainties have been studied, which come from the ABCD method itself as well as the calculation of the correction factor. Along with that, systematic uncertainties have been implemented, which include the uncertainties from $b$-tagging. Some systematic uncertainties have also been assigned such as uncertainty on the cross-section of the other backgrounds, closure uncertainty, etc.
+
+The final event yield of the estimated multijet from the ABCD method including all the uncertainties in the validation region comes out to be: 
+
+\begin{table}[hbt!]
+	\centering
+	\begin{tabular}{c|c} 
+		\toprule
+		\textbf{Multijet ABCD estimate} & \textbf{$\num{72600} \pm \num{300} \text{ (stat.)} \pm \num{3200} \text{ (sys.)}$} \\
+		Other backgrounds & $\num{3320} \pm \num{95} \text{ (stat.)}$ \\
+		\midrule
+		Data & $\num{75967}$ \\
+		\bottomrule
+	\end{tabular}
+	\label{table:conclusion}
+\end{table}
+
+The estimated multijet is consistent with the data within the uncertainties. The event yield stated here is from the $\eta$ distribution of $W$-tagged jet since it is a more consistent distribution, but the difference in the event yields of the estimated multijet across the distributions is just less than 2\%.
+
+So, the results observed in the validation region shows that the ABCD method works well, and the method has been validated in the validation region. Now it can be applied in the signal region to estimate the multijet background. And then the estimate in the signal region can further be used for setting mass-coupling limits.
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "mythesis"
+%%% End: 

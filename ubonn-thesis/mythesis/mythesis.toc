@@ -1,0 +1,105 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {UKenglish}{}
+\babel@toc {ngerman}{}
+\babel@toc {UKenglish}{}
+\babel@toc {UKenglish}{}
+\babel@toc {UKenglish}{}
+\babel@toc {ngerman}{}
+\babel@toc {UKenglish}{}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Theoretical concepts}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Basic concepts}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}The Standard Model}{5}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Particle content}{5}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Gauge groups}{6}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Particle interaction}{7}{subsection.2.2.3}
+\contentsline {subsubsection}{\nonumberline Electromagnetic interaction}{7}{section*.8}
+\contentsline {subsubsection}{\nonumberline Strong interaction}{7}{section*.9}
+\contentsline {subsubsection}{\nonumberline Weak interaction and Electroweak unification}{8}{section*.10}
+\contentsline {subsection}{\numberline {2.2.4}Higgs mechanism}{9}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Feynman diagram}{10}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Drawbacks of the Standard Model}{10}{subsection.2.2.6}
+\contentsline {section}{\numberline {2.3}Vector-like quarks (VLQs)}{12}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Multiplet representation}{12}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Production of VLQs}{13}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Models}{14}{subsection.2.3.3}
+\contentsline {chapter}{\numberline {3}LHC and the ATLAS detector}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Large Hadron Collider (LHC)}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}The ATLAS detector}{19}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Coordinate system and kinematic observables}{19}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Detector overview}{21}{subsection.3.2.2}
+\contentsline {subsubsection}{\nonumberline Inner detector}{21}{section*.18}
+\contentsline {subsubsection}{\nonumberline Calorimeters}{22}{section*.20}
+\contentsline {subsubsection}{\nonumberline Muon spectrometer}{23}{section*.21}
+\contentsline {subsubsection}{\nonumberline Magnets}{24}{section*.22}
+\contentsline {subsubsection}{\nonumberline Trigger system}{24}{section*.23}
+\contentsline {chapter}{\numberline {4}Jets and tagging}{25}{chapter.4}
+\contentsline {section}{\numberline {4.1}Jets}{25}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Jet reconstruction algorithm}{25}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Topo-cluster jets}{27}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Particle flow jets}{28}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Tagging}{29}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}$W$-tagging}{29}{subsection.4.2.1}
+\contentsline {subsubsection}{\nonumberline Two-variable tagger}{29}{section*.27}
+\contentsline {subsubsection}{\nonumberline Three-variable tagger}{30}{section*.29}
+\contentsline {subsection}{\numberline {4.2.2}$b$-tagging}{32}{subsection.4.2.2}
+\contentsline {chapter}{\numberline {5}Analysis strategy}{33}{chapter.5}
+\contentsline {section}{\numberline {5.1}Overview of $T/Y\rightarrow Wb$}{33}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Leptonic channel}{33}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Hadronic channel}{34}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Motivation for hadronic channel}{35}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.2}Backgrounds}{36}{section.5.2}
+\contentsline {subsubsection}{\nonumberline Single top}{36}{section*.36}
+\contentsline {subsubsection}{\nonumberline \ensuremath {t\bar {t}}}{37}{section*.38}
+\contentsline {subsubsection}{\nonumberline $W$+jets}{37}{section*.40}
+\contentsline {subsubsection}{\nonumberline $Z$+jets}{38}{section*.42}
+\contentsline {subsubsection}{\nonumberline Multijet}{38}{section*.44}
+\contentsline {section}{\numberline {5.3}Datasets}{38}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Data samples}{38}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Monte Carlo (MC) samples}{39}{subsection.5.3.2}
+\contentsline {subsubsection}{\nonumberline Signal}{40}{section*.47}
+\contentsline {subsubsection}{\nonumberline Background}{40}{section*.49}
+\contentsline {subsubsection}{\nonumberline MC weights}{41}{section*.51}
+\contentsline {section}{\numberline {5.4}Physics objects}{42}{section.5.4}
+\contentsline {section}{\numberline {5.5}Event selection}{43}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Preselection}{43}{subsection.5.5.1}
+\contentsline {section}{\numberline {5.6}Need for data-driven background estimation}{44}{section.5.6}
+\contentsline {chapter}{\numberline {6}ABCD data-driven method}{47}{chapter.6}
+\contentsline {section}{\numberline {6.1}Data-driven estimation of background}{47}{section.6.1}
+\contentsline {section}{\numberline {6.2}The ABCD method}{47}{section.6.2}
+\contentsline {subsubsection}{\nonumberline Assumptions:}{48}{section*.56}
+\contentsline {section}{\numberline {6.3}Implementation of the ABCD method}{49}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Choice of variables}{49}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Definition of regions}{49}{subsection.6.3.2}
+\contentsline {subsubsection}{\nonumberline Signal region}{50}{section*.58}
+\contentsline {subsubsection}{\nonumberline Validation region}{50}{section*.59}
+\contentsline {subsubsection}{\nonumberline Control region}{51}{section*.60}
+\contentsline {subsection}{\numberline {6.3.3}Closure tests}{51}{subsection.6.3.3}
+\contentsline {subsubsection}{\nonumberline Test I}{51}{section*.61}
+\contentsline {subsubsection}{\nonumberline Test II}{52}{section*.65}
+\contentsline {section}{\numberline {6.4}Preliminary multijet estimate}{54}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Need for correction}{55}{subsection.6.4.1}
+\contentsline {section}{\numberline {6.5}Correction factor}{55}{section.6.5}
+\contentsline {section}{\numberline {6.6}Further improvement}{60}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}Fitting}{60}{subsection.6.6.1}
+\contentsline {paragraph}{\nonumberline Maximum likelihood method}{60}{section*.71}
+\contentsline {subsection}{\numberline {6.6.2}Implementation on the multijet MC}{61}{subsection.6.6.2}
+\contentsline {subsection}{\numberline {6.6.3}Calculation of \ensuremath {R_{\text {corr}}}\xspace from the scaled multijet MC}{61}{subsection.6.6.3}
+\contentsline {chapter}{\numberline {7}Uncertainties}{65}{chapter.7}
+\contentsline {section}{\numberline {7.1}Statistical uncertainties}{65}{section.7.1}
+\contentsline {section}{\numberline {7.2}Systematic uncertainties}{65}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}$b$-tagging uncertainty}{66}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Multijet MC uncertainty}{70}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Closure uncertainty}{71}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.4}Cross-section uncertainty}{72}{subsection.7.2.4}
+\contentsline {chapter}{\numberline {8}Results}{75}{chapter.8}
+\contentsline {section}{\numberline {8.1}Estimated multijet including uncertainties}{75}{section.8.1}
+\contentsline {section}{\numberline {8.2}Performance comparison of two different $W$-taggers}{75}{section.8.2}
+\contentsline {section}{\numberline {8.3}Performance comparison of two different jet collections}{77}{section.8.3}
+\contentsline {chapter}{\numberline {9}Conclusion}{83}{chapter.9}
+\contentsline {chapter}{\nonumberline Bibliography}{85}{chapter*.95}
+\contentsline {chapter}{\numberline {A}Control region distributions}{91}{appendix.A}
+\contentsline {chapter}{\numberline {B}Scaled multijet MC distributions}{97}{appendix.B}
+\contentsline {chapter}{\nonumberline List of Figures}{103}{chapter*.104}
+\contentsline {chapter}{\nonumberline List of Tables}{109}{chapter*.105}
+\contentsline {chapter}{\nonumberline Acknowledgements}{111}{chapter*.106}

@@ -1,0 +1,93 @@
+\BOOKMARK [0][]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][]{chapter.2}{Tips and tricks}{}% 2
+\BOOKMARK [1][]{section.2.1}{How to use the ubonn-thesis style}{chapter.2}% 3
+\BOOKMARK [1][]{section.2.2}{Options that can be passed to ubonn-thesis}{chapter.2}% 4
+\BOOKMARK [1][]{section.2.3}{Do}{chapter.2}% 5
+\BOOKMARK [1][]{section.2.4}{Do not}{chapter.2}% 6
+\BOOKMARK [1][]{section.2.5}{Units}{chapter.2}% 7
+\BOOKMARK [2][]{subsection.2.5.1}{siunitx package}{section.2.5}% 8
+\BOOKMARK [2][]{subsection.2.5.2}{SIunits/hepunits packages}{section.2.5}% 9
+\BOOKMARK [1][]{section.2.6}{Definitions in particle physics}{chapter.2}% 10
+\BOOKMARK [1][]{section.2.7}{Hints}{chapter.2}% 11
+\BOOKMARK [1][]{section.2.8}{Common English mistakes}{chapter.2}% 12
+\BOOKMARK [1][]{section.2.9}{Line numbering}{chapter.2}% 13
+\BOOKMARK [1][]{section.2.10}{Updating ubonn-thesis}{chapter.2}% 14
+\BOOKMARK [0][]{chapter.3}{Submitting your thesis}{}% 15
+\BOOKMARK [1][]{section.3.1}{PhD thesis}{chapter.3}% 16
+\BOOKMARK [2][]{subsection.3.1.1}{Submission}{section.3.1}% 17
+\BOOKMARK [2][]{subsection.3.1.2}{Printing the final version}{section.3.1}% 18
+\BOOKMARK [1][]{section.3.2}{Master/Diplom/Bachelor thesis}{chapter.3}% 19
+\BOOKMARK [2][]{subsection.3.2.1}{Submission}{section.3.2}% 20
+\BOOKMARK [2][]{subsection.3.2.2}{MSc/Diplom theses for the department library}{section.3.2}% 21
+\BOOKMARK [2][]{subsection.3.2.3}{BSc theses}{section.3.2}% 22
+\BOOKMARK [0][]{chapter.4}{Useful packages}{}% 23
+\BOOKMARK [1][]{section.4.1}{Layout and language}{chapter.4}% 24
+\BOOKMARK [1][]{section.4.2}{Appearance}{chapter.4}% 25
+\BOOKMARK [1][]{section.4.3}{Other packages}{chapter.4}% 26
+\BOOKMARK [1][]{section.4.4}{ToDo Notes}{chapter.4}% 27
+\BOOKMARK [0][]{chapter.5}{Figures}{}% 28
+\BOOKMARK [1][]{section.5.1}{Simple figures}{chapter.5}% 29
+\BOOKMARK [1][]{section.5.2}{Fancier figures}{chapter.5}% 30
+\BOOKMARK [1][]{section.5.3}{Figure formats}{chapter.5}% 31
+\BOOKMARK [1][]{section.5.4}{TikZ and PGF}{chapter.5}% 32
+\BOOKMARK [2][]{subsection.5.4.1}{Accelerator lattices}{section.5.4}% 33
+\BOOKMARK [1][]{section.5.5}{Placement}{chapter.5}% 34
+\BOOKMARK [2][]{subsection.5.5.1}{standalone package and class}{section.5.5}% 35
+\BOOKMARK [1][]{section.5.6}{Feynman graphs}{chapter.5}% 36
+\BOOKMARK [2][]{subsection.5.6.1}{PyFeyn}{section.5.6}% 37
+\BOOKMARK [2][]{subsection.5.6.2}{FeynMF and FeynMP}{section.5.6}% 38
+\BOOKMARK [2][]{subsection.5.6.3}{Feynman graphs with TikZ}{section.5.6}% 39
+\BOOKMARK [0][]{chapter.6}{Tables}{}% 40
+\BOOKMARK [1][]{section.6.1}{Use of phantom}{chapter.6}% 41
+\BOOKMARK [1][]{section.6.2}{Using siunitx and the S column option}{chapter.6}% 42
+\BOOKMARK [1][]{section.6.3}{Using dcolumn}{chapter.6}% 43
+\BOOKMARK [0][]{chapter.7}{References}{}% 44
+\BOOKMARK [1][]{section.7.1}{Formatting by hand}{chapter.7}% 45
+\BOOKMARK [1][]{section.7.2}{Using BibTeX and biblatex}{chapter.7}% 46
+\BOOKMARK [1][]{section.7.3}{BibTeX entries}{chapter.7}% 47
+\BOOKMARK [2][]{subsection.7.3.1}{Entry types}{section.7.3}% 48
+\BOOKMARK [2][]{subsection.7.3.2}{Entries from Inspire and CDS}{section.7.3}% 49
+\BOOKMARK [2][]{subsection.7.3.3}{More on names}{section.7.3}% 50
+\BOOKMARK [1][]{section.7.4}{Formatting references}{chapter.7}% 51
+\BOOKMARK [2][]{subsection.7.4.1}{biblatex styles}{section.7.4}% 52
+\BOOKMARK [2][]{subsection.7.4.2}{Traditional BibTeX styles}{section.7.4}% 53
+\BOOKMARK [1][]{section.7.5}{Errata}{chapter.7}% 54
+\BOOKMARK [1][]{section.7.6}{Sources for references}{chapter.7}% 55
+\BOOKMARK [1][]{section.7.7}{Common wishes}{chapter.7}% 56
+\BOOKMARK [1][]{section.7.8}{Using mcite}{chapter.7}% 57
+\BOOKMARK [0][]{chapter.8}{Layout and language}{}% 58
+\BOOKMARK [1][]{section.8.1}{Page layout}{chapter.8}% 59
+\BOOKMARK [1][]{section.8.2}{Footnotes}{chapter.8}% 60
+\BOOKMARK [1][]{section.8.3}{Thesis in German}{chapter.8}% 61
+\BOOKMARK [1][]{section.8.4}{Fonts}{chapter.8}% 62
+\BOOKMARK [1][]{section.8.5}{Other languages}{chapter.8}% 63
+\BOOKMARK [1][]{section.8.6}{Coloured links}{chapter.8}% 64
+\BOOKMARK [1][]{section.8.7}{Chapter headings}{chapter.8}% 65
+\BOOKMARK [0][]{appendix.A}{Changes and plans}{}% 66
+\BOOKMARK [0][]{appendix.B}{TeX setup and packages}{}% 67
+\BOOKMARK [1][]{section.B.1}{Integrated environments}{appendix.B}% 68
+\BOOKMARK [2][]{subsection.B.1.1}{TeXstudio}{section.B.1}% 69
+\BOOKMARK [2][]{subsection.B.1.2}{Visual Studio Code}{section.B.1}% 70
+\BOOKMARK [2][]{subsection.B.1.3}{Kile}{section.B.1}% 71
+\BOOKMARK [1][]{section.B.2}{MacOS}{appendix.B}% 72
+\BOOKMARK [1][]{section.B.3}{\(Ku|Xu|U\)buntu}{appendix.B}% 73
+\BOOKMARK [1][]{section.B.4}{Windows}{appendix.B}% 74
+\BOOKMARK [2][]{subsection.B.4.1}{MiKTeX}{section.B.4}% 75
+\BOOKMARK [2][]{subsection.B.4.2}{TeX Live}{section.B.4}% 76
+\BOOKMARK [0][]{appendix.C}{Print shops}{}% 77
+\BOOKMARK [0][]{appendix.D}{Making a glossary or list of acronyms}{}% 78
+\BOOKMARK [1][]{section.D.1}{ZEUS detector description}{appendix.D}% 79
+\BOOKMARK [0][]{appendix.E}{Plots with TikZ}{}% 80
+\BOOKMARK [0][]{appendix.F}{Long tables}{}% 81
+\BOOKMARK [0][]{appendix.G}{A famous equation is E = mc2}{}% 82
+\BOOKMARK [1][]{section.G.1}{A slightly less famous equation F = m a}{appendix.G}% 83
+\BOOKMARK [1][]{section.G.2}{The cross-section is given by = N / L}{appendix.G}% 84
+\BOOKMARK [0][]{appendix.H}{Old or obsolete information and instructions}{}% 85
+\BOOKMARK [1][]{section.H.1}{More on feynmf}{appendix.H}% 86
+\BOOKMARK [1][]{section.H.2}{Windows}{appendix.H}% 87
+\BOOKMARK [2][]{subsection.H.2.1}{Windows XP}{section.H.2}% 88
+\BOOKMARK [2][]{subsection.H.2.2}{TeXnic Center}{section.H.2}% 89
+\BOOKMARK [0][]{chapter*.28}{Bibliography}{}% 90
+\BOOKMARK [0][]{chapter*.29}{List of Figures}{}% 91
+\BOOKMARK [0][]{chapter*.30}{List of Tables}{}% 92
+\BOOKMARK [0][]{chapter*.32}{Acknowledgements}{}% 93

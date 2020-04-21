@@ -1,0 +1,38 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {UKenglish}{}
+\babel@toc {ngerman}{}
+\babel@toc {UKenglish}{}
+\babel@toc {UKenglish}{}
+\babel@toc {UKenglish}{}
+\babel@toc {ngerman}{}
+\babel@toc {UKenglish}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 2.1}{\ignorespaces Overview of the different multiplet models of VLQs along with their isospin $T_{\text {3}}$, hypercharge $Y$ and electric charge $q$.\relax }}{13}{table.caption.11}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 4.1}{\ignorespaces Efficiency and cut value on output for each of the working points of the MV2c10 algorithm. Rejection of $c$-jets and light-flavoured jets are also shown. The values are estimated using a simulated $t\bar {t}$ sample.~\cite {thesis:rui}\relax }}{32}{table.caption.32}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 5.1}{\ignorespaces Integrated luminosities of the data for all the years of LHC Run 2 operation.~\cite {intnote:zboson}\relax }}{39}{table.caption.46}
+\contentsline {table}{\numberline {\relax 5.2}{\ignorespaces Overview of all the signal samples for different VLQ masses along with their production cross-section in the $pp$ collision.~\cite {wulzer}\relax }}{41}{table.caption.48}
+\contentsline {table}{\numberline {\relax 5.3}{\ignorespaces Overview of all the background samples used in this analysis along with their exact mode of MC production.\relax }}{41}{table.caption.50}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 6.1}{\ignorespaces Four different MC signal samples along with their mass and coupling values which are used in closure test I. \relax }}{51}{table.caption.62}
+\contentsline {table}{\numberline {\relax 6.2}{\ignorespaces Event yields of all the backgrounds and signals from the MC simulation in all the six ABCD regions. The errors shown here are all statistical uncertainty.\relax }}{53}{table.caption.63}
+\contentsline {table}{\numberline {\relax 6.3}{\ignorespaces Event yields of multijet background from the MC sample in all the ABCD regions and the expected yield calculated from Eqn.\ \ref {eqn:abcd:implementation:closuretests:testii} in SR A1 and VR A.\relax }}{53}{table.caption.63}
+\contentsline {table}{\numberline {\relax 6.4}{\ignorespaces Value of \ensuremath {R_{\text {corr}}}\xspace for all the six kinematic distributions calculated from the scaled multijet MC by using normalisation method.\relax }}{62}{table.caption.72}
+\contentsline {table}{\numberline {\relax 6.5}{\ignorespaces Event yields of the estimated multijet background in VR A from the ABCD method when \ensuremath {R_{\text {corr}}}\xspace is calculated from all the four methods. The errors shown here are from statistical uncertainty.\relax }}{63}{table.caption.73}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 7.1}{\ignorespaces Overview of statistical and systematic uncertainties on the final estimated multijet when \ensuremath {R_{\text {corr}}}\xspace is calculated from the scaled multijet MC for all the six distributions.\relax }}{70}{table.caption.81}
+\contentsline {table}{\numberline {\relax 7.2}{\ignorespaces Scale uncertainty values for all the background processes.\relax }}{73}{table.caption.84}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 8.1}{\ignorespaces Result showing the estimated multijet with all the uncertainties in the validation region for all the kinematic distributions.\relax }}{76}{table.caption.86}
+\contentsline {table}{\numberline {\relax 8.2}{\ignorespaces Result showing the estimated multijet with all the uncertainties in the validation region for the $\eta $ distribution of $W$-tagged jet when two-variable and three-variable tagger are used for $W$-tagging.\relax }}{76}{table.caption.88}
+\contentsline {table}{\numberline {\relax 8.3}{\ignorespaces Result showing the event yields of the data in all the ABCD regions when $W$-tagging is performed by both two-variable and three-variable tagger.\relax }}{77}{table.caption.89}
+\contentsline {table}{\numberline {\relax 8.4}{\ignorespaces Result showing the estimated multijet with all the uncertainties in the validation region for the $\eta $ distribution of $W$-tagged jet when EMTopo and particle flow jet collections are used for small-$R$ jets.\relax }}{77}{table.caption.91}
+\contentsline {table}{\numberline {\relax 8.5}{\ignorespaces Result showing the event yields of the data in all the ABCD regions when EMTopo and particle flow jet collections are used for small-$R$ jets.\relax }}{78}{table.caption.92}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

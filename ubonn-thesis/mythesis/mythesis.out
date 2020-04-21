@@ -1,0 +1,72 @@
+\BOOKMARK [0][]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][]{chapter.2}{Theoretical concepts}{}% 2
+\BOOKMARK [1][]{section.2.1}{Basic concepts}{chapter.2}% 3
+\BOOKMARK [1][]{section.2.2}{The Standard Model}{chapter.2}% 4
+\BOOKMARK [2][]{subsection.2.2.1}{Particle content}{section.2.2}% 5
+\BOOKMARK [2][]{subsection.2.2.2}{Gauge groups}{section.2.2}% 6
+\BOOKMARK [2][]{subsection.2.2.3}{Particle interaction}{section.2.2}% 7
+\BOOKMARK [2][]{subsection.2.2.4}{Higgs mechanism}{section.2.2}% 8
+\BOOKMARK [2][]{subsection.2.2.5}{Feynman diagram}{section.2.2}% 9
+\BOOKMARK [2][]{subsection.2.2.6}{Drawbacks of the Standard Model}{section.2.2}% 10
+\BOOKMARK [1][]{section.2.3}{Vector-like quarks \(VLQs\)}{chapter.2}% 11
+\BOOKMARK [2][]{subsection.2.3.1}{Multiplet representation}{section.2.3}% 12
+\BOOKMARK [2][]{subsection.2.3.2}{Production of VLQs}{section.2.3}% 13
+\BOOKMARK [2][]{subsection.2.3.3}{Models}{section.2.3}% 14
+\BOOKMARK [0][]{chapter.3}{LHC and the ATLAS detector}{}% 15
+\BOOKMARK [1][]{section.3.1}{The Large Hadron Collider \(LHC\)}{chapter.3}% 16
+\BOOKMARK [1][]{section.3.2}{The ATLAS detector}{chapter.3}% 17
+\BOOKMARK [2][]{subsection.3.2.1}{Coordinate system and kinematic observables}{section.3.2}% 18
+\BOOKMARK [2][]{subsection.3.2.2}{Detector overview}{section.3.2}% 19
+\BOOKMARK [0][]{chapter.4}{Jets and tagging}{}% 20
+\BOOKMARK [1][]{section.4.1}{Jets}{chapter.4}% 21
+\BOOKMARK [2][]{subsection.4.1.1}{Jet reconstruction algorithm}{section.4.1}% 22
+\BOOKMARK [2][]{subsection.4.1.2}{Topo-cluster jets}{section.4.1}% 23
+\BOOKMARK [2][]{subsection.4.1.3}{Particle flow jets}{section.4.1}% 24
+\BOOKMARK [1][]{section.4.2}{Tagging}{chapter.4}% 25
+\BOOKMARK [2][]{subsection.4.2.1}{W-tagging}{section.4.2}% 26
+\BOOKMARK [2][]{subsection.4.2.2}{b-tagging}{section.4.2}% 27
+\BOOKMARK [0][]{chapter.5}{Analysis strategy}{}% 28
+\BOOKMARK [1][]{section.5.1}{Overview of T/YWb}{chapter.5}% 29
+\BOOKMARK [2][]{subsection.5.1.1}{Leptonic channel}{section.5.1}% 30
+\BOOKMARK [2][]{subsection.5.1.2}{Hadronic channel}{section.5.1}% 31
+\BOOKMARK [2][]{subsection.5.1.3}{Motivation for hadronic channel}{section.5.1}% 32
+\BOOKMARK [1][]{section.5.2}{Backgrounds}{chapter.5}% 33
+\BOOKMARK [1][]{section.5.3}{Datasets}{chapter.5}% 34
+\BOOKMARK [2][]{subsection.5.3.1}{Data samples}{section.5.3}% 35
+\BOOKMARK [2][]{subsection.5.3.2}{Monte Carlo \(MC\) samples}{section.5.3}% 36
+\BOOKMARK [1][]{section.5.4}{Physics objects}{chapter.5}% 37
+\BOOKMARK [1][]{section.5.5}{Event selection}{chapter.5}% 38
+\BOOKMARK [2][]{subsection.5.5.1}{Preselection}{section.5.5}% 39
+\BOOKMARK [1][]{section.5.6}{Need for data-driven background estimation}{chapter.5}% 40
+\BOOKMARK [0][]{chapter.6}{ABCD data-driven method}{}% 41
+\BOOKMARK [1][]{section.6.1}{Data-driven estimation of background}{chapter.6}% 42
+\BOOKMARK [1][]{section.6.2}{The ABCD method}{chapter.6}% 43
+\BOOKMARK [1][]{section.6.3}{Implementation of the ABCD method}{chapter.6}% 44
+\BOOKMARK [2][]{subsection.6.3.1}{Choice of variables}{section.6.3}% 45
+\BOOKMARK [2][]{subsection.6.3.2}{Definition of regions}{section.6.3}% 46
+\BOOKMARK [2][]{subsection.6.3.3}{Closure tests}{section.6.3}% 47
+\BOOKMARK [1][]{section.6.4}{Preliminary multijet estimate}{chapter.6}% 48
+\BOOKMARK [2][]{subsection.6.4.1}{Need for correction}{section.6.4}% 49
+\BOOKMARK [1][]{section.6.5}{Correction factor}{chapter.6}% 50
+\BOOKMARK [1][]{section.6.6}{Further improvement}{chapter.6}% 51
+\BOOKMARK [2][]{subsection.6.6.1}{Fitting}{section.6.6}% 52
+\BOOKMARK [2][]{subsection.6.6.2}{Implementation on the multijet MC}{section.6.6}% 53
+\BOOKMARK [2][]{subsection.6.6.3}{Calculation of Rcorr from the scaled multijet MC}{section.6.6}% 54
+\BOOKMARK [0][]{chapter.7}{Uncertainties}{}% 55
+\BOOKMARK [1][]{section.7.1}{Statistical uncertainties}{chapter.7}% 56
+\BOOKMARK [1][]{section.7.2}{Systematic uncertainties}{chapter.7}% 57
+\BOOKMARK [2][]{subsection.7.2.1}{b-tagging uncertainty}{section.7.2}% 58
+\BOOKMARK [2][]{subsection.7.2.2}{Multijet MC uncertainty}{section.7.2}% 59
+\BOOKMARK [2][]{subsection.7.2.3}{Closure uncertainty}{section.7.2}% 60
+\BOOKMARK [2][]{subsection.7.2.4}{Cross-section uncertainty}{section.7.2}% 61
+\BOOKMARK [0][]{chapter.8}{Results}{}% 62
+\BOOKMARK [1][]{section.8.1}{Estimated multijet including uncertainties}{chapter.8}% 63
+\BOOKMARK [1][]{section.8.2}{Performance comparison of two different W-taggers}{chapter.8}% 64
+\BOOKMARK [1][]{section.8.3}{Performance comparison of two different jet collections}{chapter.8}% 65
+\BOOKMARK [0][]{chapter.9}{Conclusion}{}% 66
+\BOOKMARK [0][]{chapter*.95}{Bibliography}{}% 67
+\BOOKMARK [0][]{appendix.A}{Control region distributions}{}% 68
+\BOOKMARK [0][]{appendix.B}{Scaled multijet MC distributions}{}% 69
+\BOOKMARK [0][]{chapter*.104}{List of Figures}{}% 70
+\BOOKMARK [0][]{chapter*.105}{List of Tables}{}% 71
+\BOOKMARK [0][]{chapter*.106}{Acknowledgements}{}% 72
