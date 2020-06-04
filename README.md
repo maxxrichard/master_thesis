@@ -10,4 +10,4 @@ This repository contains the latex code of my master thesis titled 'Background e
 * Prof. Dr. Florian Bernlochner, University of Bonn
 
 # Package
-This thesis is written by using the package 'ubonn-thesis', written by Prof. Dr. Ian C. Brock. [More information](https://www.brock.physik.uni-bonn.de/teaching-1/thesis-guide)
+This thesis is written by using the package `ubonn-thesis`, written by Prof. Dr. Ian C. Brock. [More information](https://www.brock.physik.uni-bonn.de/teaching-1/thesis-guide)
