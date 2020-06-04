@@ -1,5 +1,5 @@
 # Master Thesis
-This repository contains the latex code of my master thesis titled 'Background estimation in the search for single production of vector-like quarks decaying into Wb in pp collisions using a data-driven method at 13 TeV with the ATLAS detector'
+This repository contains the latex code of my master thesis titled 'Background estimation in the search for single production of vector-like quarks decaying into Wb in pp collisions using a data-driven method at 13 TeV with the ATLAS detector'.
 
 #### ___Author___:
 * Maxx Richard Rahman, University of Bonn
